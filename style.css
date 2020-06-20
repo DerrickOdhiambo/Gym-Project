@@ -1,0 +1,70 @@
+body{
+    background-image: url(https://ae01.alicdn.com/kf/HTB13AxwLpXXXXX7aXXXq6xXFXXXk/Body-Building-Women-model-Fitness-gym-Poster-Home-Decor-Wall-Sticker-4-sizes-Free-Shipping.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    font-family: sans-serif;
+}
+nav{
+    text-align: center;
+}
+li{
+    display: inline-block;
+    text-align: center;
+    padding: 10px;
+    margin: auto;
+}
+a{
+    text-decoration: none;
+    padding: 20px;
+    font-size: x-large;
+    color: cyan;
+}
+a:hover{
+    background-color:rgb(233, 35, 35);
+    padding: 25px;
+    box-shadow: 1px 1px 1px cyan;
+    opacity: 0.9;
+}
+.h1{
+    display: column;
+    float: right;
+    padding-left: 60%;
+    padding-top: 10%;
+}
+h2{
+    font-size: 30px;
+    color: rgb(233, 35, 35);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+h1{
+    font-size: 80px;
+    color: cyan;
+}
+h3{
+    padding: 15px;
+    margin-right: 50%;
+    text-align: center;
+    background-color: rgb(216, 18, 18);
+    color: cyan;
+}
+h3:hover{
+    color: rgb(233, 35, 35);
+    background-color: gainsboro;
+    box-shadow: 2px 2px 3px cyan;
+}
+p{
+    font-size: large;
+    padding: 20px;
+    color: rgb(233, 35, 35);
+}
+.h4{
+    display: flex;
+    flex-direction: row;
+}
+#h4 > img{
+    width: 100px;
+    height: 100px;
+    padding: 20px;
+    margin: 20px;
+}
